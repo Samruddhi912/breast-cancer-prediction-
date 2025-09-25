@@ -1,8 +1,5 @@
 
 ---
-
-## breast-cancer-prediction  
-```markdown
 # Breast Cancer Prediction
 
 A machine learning project that predicts the presence of breast cancer using healthcare datasets with multiple classifiers and feature engineering techniques.
@@ -31,15 +28,7 @@ A machine learning project that predicts the presence of breast cancer using hea
 2.Install required libraries:
   ```bash
   pip install pandas numpy scikit-learn matplotlib seaborn
-3.Run the script:
-  ```bash
-  python main.py
 
----
 
-## Sample Output
-Confusion Matrix
 
-Accuracy: XX%
 
-Precision: XX%, Recall: XX%, F1-score: XX%
