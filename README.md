@@ -28,7 +28,3 @@ A machine learning project that predicts the presence of breast cancer using hea
 2.Install required libraries:
   ```bash
   pip install pandas numpy scikit-learn matplotlib seaborn
-
-
-
-
